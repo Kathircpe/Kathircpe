@@ -2,7 +2,7 @@
 
 ### Software Engineer  
 - 🧐 I'm currently seeking for an Internship or a Job
-- 🌱 I’m learning DevOps 
+- 🌱 I’m a developer and learning DevOps 
 - ⚡ Languages :
     - English.
     - Tamil.

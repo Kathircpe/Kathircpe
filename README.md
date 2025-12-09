@@ -1,7 +1,7 @@
 ## Hi there 👋 It's me KATHIR ESWARAN
 
 ### Software Engineer  
-- 🧐 I'm currently seeking for an Internship or a Job
+<!-- - 🧐 I'm currently seeking for an Internship or a Job -->
 - 🌱 I’m a developer and I'm learning DevOps 
 - ⚡ Languages :
     - English.

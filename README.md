@@ -1,7 +1,3 @@
-## Hi there 👋 It's me Kathir Eswaran
-
-### Software Engineer  
-
 ![Header](https://raw.githubusercontent.com/leorrose/leorrose/master/readme_header.gif "Header")
 <br/>
 - Social Presence
@@ -16,7 +12,7 @@
 
 # 📊 GitHub Stats:
 ---
-[![](https://visitcount.itsvg.in/api?id=prakharsingh-74&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=kathircpe&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=148339919" target="_blank" style="display: block" align="center">
   <picture>
